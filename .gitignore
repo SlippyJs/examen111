@@ -1,0 +1,4 @@
+# Project exclude paths
+/ae-1473-juan-banda/.gradle/
+/ae-1473-juan-banda/build/
+/ae-1473-juan-banda/build/classes/kotlin/main/

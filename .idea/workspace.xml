@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5573acd8-76c5-4dab-a413-e62afde5ad30" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/ae-1473-juan-banda.postman_collection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/questions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/src/main/kotlin/com/pucetec/ae1473exam1/Ae1473Exam1Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/src/main/kotlin/com/pucetec/ae1473exam1/controllers/BookController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/src/main/kotlin/com/pucetec/ae1473exam1/dto/BookDtos.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/src/main/kotlin/com/pucetec/ae1473exam1/entities/Book.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/src/main/kotlin/com/pucetec/ae1473exam1/repositories/BookRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/src/main/kotlin/com/pucetec/ae1473exam1/services/BookService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda/src/test/kotlin/com/pucetec/ae1473exam1/Ae1473Exam1ApplicationTests.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae-1473-juan-banda_postman_collection.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/ae-1473-juan-banda">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ae1473exam1" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3EsETFlobp1VteZDqbZ1W0KJkgN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build ae-1473-juan-banda.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.Ae1473Exam1Application.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DETPC/OneDrive/Desktop/ae-1473-juan-banda",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Ae1473Exam1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ae1473exam1.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pucetec.ae1473exam1.Ae1473Exam1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5573acd8-76c5-4dab-a413-e62afde5ad30" name="Changes" comment="" />
+      <created>1780958885769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780958885769</updated>
+      <workItem from="1780958887326" duration="25000" />
+      <workItem from="1780960908102" duration="28000" />
+      <workItem from="1780960967024" duration="190000" />
+      <workItem from="1780961178494" duration="1107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
